@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "139174977888",
+    "firebase_url": "https://proxy-server-virusapp-default-rtdb.firebaseio.com",
+    "project_id": "proxy-server-virusapp",
+    "storage_bucket": "proxy-server-virusapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139174977888:android:38ba0375b040a0e73cfe05",
+        "android_client_info": {
+          "package_name": "com.example.fraudulent_link_detector"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyGh4XRDxYxeWTryp7I_LlX_q_WGACIfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
